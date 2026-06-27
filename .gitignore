@@ -1,0 +1,31 @@
+# 환경 / API 키
+.env
+.env.bak
+.env.*
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 오디오 파일
+*.wav
+*.mp3
+
+# 개인 데이터 (실제 전사·요약·학습 기록)
+data/transcripts/*.jsonl
+data/transcripts/*.txt
+data/summaries/
+data/study_packs/
+data/logs/
+
+# OS
+.DS_Store
+Thumbs.db

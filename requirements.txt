@@ -1,0 +1,11 @@
+﻿faster-whisper
+soundcard
+numpy
+python-dotenv
+pydantic
+rich
+typer
+streamlit>=1.30
+langchain-core==0.2.43
+langchain-openai==0.1.25
+openai==1.51.2

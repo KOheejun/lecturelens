@@ -1,0 +1,11 @@
+﻿numpy
+python-dotenv
+streamlit
+typer
+rich
+pydantic
+langchain
+langchain-core
+langchain-classic
+langchain-text-splitters
+langchain-upstage
